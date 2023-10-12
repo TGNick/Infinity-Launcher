@@ -1,2 +1,2 @@
 # Infinity-Launcher
-Infinity Launcher V2
+Infinity Launcher V3
